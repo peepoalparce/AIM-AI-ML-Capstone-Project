@@ -53,13 +53,13 @@ Exact results are included in the /reports/ folder.
 
 ##How to Run the Project
 1. Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 2. Run the full pipeline
-python src/main.py
+- python src/main.py
 3. View generated outputs
-Saved models → /models/
-Reports → /reports/
-Visualizations → displayed during execution 
+- Saved models → /models/
+- Reports → /reports/
+- Visualizations → displayed during execution 
 
 ##Dataset
 The dataset used is the Credit Card Fraud Detection Dataset from Kaggle.
