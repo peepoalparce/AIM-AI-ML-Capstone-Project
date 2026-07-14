@@ -1,0 +1,32 @@
+Variable,Type,Description,Units,Allowed Values
+Time,float,Seconds since first transaction,seconds,>= 0
+Amount,float,Transaction amount,currency units,>= 0
+V1,float,PCA-transformed anonymized feature,N/A,continuous
+V2,float,PCA-transformed anonymized feature,N/A,continuous
+V3,float,PCA-transformed anonymized feature,N/A,continuous
+V4,float,PCA-transformed anonymized feature,N/A,continuous
+V5,float,PCA-transformed anonymized feature,N/A,continuous
+V6,float,PCA-transformed anonymized feature,N/A,continuous
+V7,float,PCA-transformed anonymized feature,N/A,continuous
+V8,float,PCA-transformed anonymized feature,N/A,continuous
+V9,float,PCA-transformed anonymized feature,N/A,continuous
+V10,float,PCA-transformed anonymized feature,N/A,continuous
+V11,float,PCA-transformed anonymized feature,N/A,continuous
+V12,float,PCA-transformed anonymized feature,N/A,continuous
+V13,float,PCA-transformed anonymized feature,N/A,continuous
+V14,float,PCA-transformed anonymized feature,N/A,continuous
+V15,float,PCA-transformed anonymized feature,N/A,continuous
+V16,float,PCA-transformed anonymized feature,N/A,continuous
+V17,float,PCA-transformed anonymized feature,N/A,continuous
+V18,float,PCA-transformed anonymized feature,N/A,continuous
+V19,float,PCA-transformed anonymized feature,N/A,continuous
+V20,float,PCA-transformed anonymized feature,N/A,continuous
+V21,float,PCA-transformed anonymized feature,N/A,continuous
+V22,float,PCA-transformed anonymized feature,N/A,continuous
+V23,float,PCA-transformed anonymized feature,N/A,continuous
+V24,float,PCA-transformed anonymized feature,N/A,continuous
+V25,float,PCA-transformed anonymized feature,N/A,continuous
+V26,float,PCA-transformed anonymized feature,N/A,continuous
+V27,float,PCA-transformed anonymized feature,N/A,continuous
+V28,float,PCA-transformed anonymized feature,N/A,continuous
+Class,int,"Target variable: 0 = non-fraud, 1 = fraud",N/A,"{0,1}"
