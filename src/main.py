@@ -14,7 +14,7 @@ from fairness import fairness_metrics
 def main():
     setup_directories()
 
-    data_path = r"D:\AIM\Artificial Inteligence and Machine Learning\Capstone Project\creditcard.csv"
+    data_path = "data/creditcard.csv"
     data = load_dataset(data_path)
     create_data_dictionary()
     check_amount_outliers(data)
